@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GameGarage</string>
+
+    <string name="search_text_hint">Search...</string>
+
+    <string name="gb_logo_content_description">Giant Bomb Logo</string>
+
+
+    <string name="game_profile_image_content_description">Game Profile Image</string>
+
+    <string name="game_background_image_content_description">Game Background Image</string>
+
+    <string name="save_profile_image_text">Save Image</string>
+
+    <string name="favourites_title">Favourites</string>
+
+    <string name="textview_past_searches_title">Past Searches</string>
+
+    <string name="textview_powered_by">Powered by</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557502310016",
+    "firebase_url": "https://gamegarage-3d41d.firebaseio.com",
+    "project_id": "gamegarage-3d41d",
+    "storage_bucket": "gamegarage-3d41d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557502310016:android:d2e358422e86f390",
+        "android_client_info": {
+          "package_name": "uk.ac.lincoln.a15593452students.gamegarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557502310016-flem3cfohn7eseq6ci1fl5cmf9lfson7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.lincoln.a15593452students.gamegarage",
+            "certificate_hash": "d7b0ddf4c34ac5cd651920b8522313d7a7952c09"
+          }
+        },
+        {
+          "client_id": "557502310016-d1q61l3sugf27dfebd8eseq4msnva7i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3L0AmMOFkF4VPWjq3YzD4qMbt3SQheg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557502310016-d1q61l3sugf27dfebd8eseq4msnva7i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
